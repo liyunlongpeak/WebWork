@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+
+    }
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        width: 1000px;
+        height: 300px;
+        background-color: pink;
+        margin: auto;
+        margin-top:  10px; 
+        /* padding: 20px; */
+        justify-content: space-between;
+    }
+    li{
+        background-color: blue;
+        flex: 1;
+        margin-right: 20px;
+        list-style: none;
+    }
+    .big{
+        flex: 2;
+    }
+</style>
+<body>
+    <ul>
+        <li class="big">1</li>
+        <li>2</li>
+    </ul>
+    <ul>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+    </ul>
+</body>
+</html>

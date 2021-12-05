@@ -125,7 +125,7 @@ width: 100%;
 .div2{
 width: 108%;
 height: 462px;
-background-image: url(/前端开发/第一次作业image/Microsoft_-_云、计算机、应用和游戏/ia_100000003.webp );width: 100%;;
+background-image: url(./前端开发/第一次作业image/Microsoft_-_云、计算机、应用和游戏/ia_100000003.webp );width: 100%;;
 background-size: 100%,100%;
 background-repeat: no-repeat;
 /* background-color: blanchedalmond; */
@@ -279,7 +279,7 @@ display: flex;
 align-items: center;
 margin: auto;
 background-repeat: no-repeat;
-background-image: url(/前端开发/第一次作业image/Microsoft_-_云、计算机、应用和游戏/ia_100000013.webp);
+background-image: url(./前端开发/第一次作业image/Microsoft_-_云、计算机、应用和游戏/ia_100000013.webp);
 }
 .div26{
 width: 450px;
@@ -320,7 +320,7 @@ display: flex;
 align-items: center;
 background-repeat: no-repeat;
 margin: auto;
-background-image: url(/前端开发/第一次作业image/Microsoft_-_云、计算机、应用和游戏/ia_100000018.webp);
+background-image: url(./前端开发/第一次作业image/Microsoft_-_云、计算机、应用和游戏/ia_100000018.webp);
 }
 .div34{
 margin-top: 10px;
